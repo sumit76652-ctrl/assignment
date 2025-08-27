@@ -93,6 +93,8 @@ public class question1 {
         int a=5, b=3;
         a+=b*=2;
         System.out.println(a+" "+b); // output is 11 6
+
+        System.out.println("End of an Application");
     }
     
 }
