@@ -188,6 +188,7 @@ public class question2 {
         // question 27...................
 
         int a=9, b=2, c=7;
+        System.out.println("welcome");
         
 
 
