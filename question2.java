@@ -137,6 +137,14 @@ public class question2 {
         // :(b>a && b>c) ? b + " b is bigger then another two number "
         // : c + " c is bigger then another two number ";
         // System.out.println(type);
+
+        // anotherr method ..........
+
+        // int a = 2;
+        // int b = 3;
+        // int c = 4;
+        // int biggest = ((a>b) && (a<c)) ? a :((b>c)? b:c);
+        // System.out.println(biggest);
         
         // question no 23...............
 
@@ -187,8 +195,8 @@ public class question2 {
 
         // question 27...................
 
-        int a=9, b=2, c=7;
-        System.out.println("welcome");
+        // int a=9, b=2, c=7;
+        // System.out.println("welcome");
         
 
 
